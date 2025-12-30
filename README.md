@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @mayanknaruka<br>- 👀 I’m interested in Web development <br>- 🌱 I’m currently learning DSA, Fundamentals of JavaScript, Databases, Web development<br>- 💞️ I’m looking to collaborate on Development, Programming<br>- 📫 How to reach me - email:- mayanknaruka47@gmail.com<br>-
+- 👋 Hi, I’m @mayanknaruka<br>- 👀 I’m interested in Web development <br>- 🌱 I’m currently learning DSA, Fundamentals of JavaScript, Databases, Web development<br>- 💞️ I’m looking to collaborate on Development, Programming<br>- 📫 How to reach me - email:- mayanknaruka47@gmail.com<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mayanknaruka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 😄 Pronouns: He/Him
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 mayanknaruka/mayanknaruka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
